@@ -15,7 +15,7 @@
         flex-direction: column;
         height: 732px;
         width: 1440px;
-        background-image: url("/87cef5d5d40a9f22a64d6937ad2f7df5b04e3d85.png");
+        background-image: url("./87cef5d5d40a9f22a64d6937ad2f7df5b04e3d85.png");
         background-size: cover;
         box-shadow: inset 0 0 5vh #d8e4e9e5;
         background-repeat: no-repeat;
@@ -44,7 +44,7 @@
         height: 35px;
         background-size: cover;
         background-repeat: no-repeat;
-        background-image: url("/86c0cdfe0a75f7a2c1c595781b7f4589e61e3895.png");
+        background-image: url("./86c0cdfe0a75f7a2c1c595781b7f4589e61e3895.png");
       }
       .avatar {
         width: 40px;
@@ -60,7 +60,7 @@
       .account {
         width: 20px;
         height: 20px;
-        background-image: url("/Vector.png");
+        background-image: url("./Vector.png");
         background-size: cover;
         background-repeat: no-repeat;
       }
@@ -93,7 +93,7 @@
         justify-content: center;
       }
       .locations {
-        background-image: url("/Location.jpg");
+        background-image: url("./Location.jpg");
         width: 1440px;
         height: 500px;
         box-shadow: inset 0 0 5vh #d8e4e9e5;
@@ -128,7 +128,7 @@
         top: 15px;
       }
       .b1 {
-        background-image: url("/image1.jpg");
+        background-image: url("./image1.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -137,7 +137,7 @@
         bottom: 7px;
       }
       .b2 {
-        background-image: url("/image2.jpg");
+        background-image: url("./image2.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -146,7 +146,7 @@
         bottom: 7px;
       }
       .b3 {
-        background-image: url("/iamge3.jpg");
+        background-image: url("./iamge3.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -155,7 +155,7 @@
         bottom: 7px;
       }
       .b4 {
-        background-image: url("/Untitled.jpg");
+        background-image: url("./Untitled.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -202,7 +202,7 @@
         transition: 0.3s;
       }
       .places {
-        background-image: url("/Roadmap\ image.jpg");
+        background-image: url("./Roadmap\ image.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -318,7 +318,7 @@
         line-height: 40px;
       }
       .font {
-        background-image: url("/iconcontain.jpg");
+        background-image: url("./iconcontain.jpg");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -332,7 +332,7 @@
         margin: 20px;
       }
       .price {
-        background-image: url("/Price&Footer-image.png");
+        background-image: url("./Price&Footer-image.png");
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
@@ -369,7 +369,7 @@
       }
       .heart {
         display: flex;
-        background-image: url("/IconButton.jpg");
+        background-image: url("./IconButton.jpg");
         width: 36px;
         height: 36px;
         background-size: cover;
@@ -489,7 +489,7 @@
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center;
-        background-image: url("/check.jpg");
+        background-image: url("./check.jpg");
       }
       .button-click {
         width: 336px;
